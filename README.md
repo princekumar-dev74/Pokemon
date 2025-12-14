@@ -7,7 +7,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 To run this project locally, follow these steps:
 ```bash
 
-# Start (Just follow this 4 steps)
+# Start 
 Git clone https://github.com/princekumar-dev74/Pokemon.git
 
 #steps
